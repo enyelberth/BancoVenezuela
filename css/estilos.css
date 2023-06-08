@@ -72,3 +72,30 @@ ul, ol {
     right:-140px;
     top:0px;
 }
+/* Iconos de bajo del banner carousel */
+.containerCarouselserviceicon{
+    /* background: darkcyan; */
+    display: grid;
+    grid-template-rows: 150px;
+    grid-template-columns: 50px 50px 50px 50px;
+    justify-content: center;
+    gap: 200px;
+}
+.itemServicio{
+    width: 150px;
+    justify-self: center;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+    /* background-color: darkcyan; */
+    /* padding: 20px 90px 20px 90px; */
+    
+    /* margin: 50px; */
+}
+.itemServicio p {
+    /* color: white; */
+    /* justify-content: center; */
+    color: #2E73C7;
+    font-size: 20px;
+}
+/*  */

@@ -156,6 +156,31 @@ ol {
     grid-auto-rows: auto;
     justify-items: center;
 }
+/* Emprende */
+.Emprende{
+    background: #2E73C7;
+    display:grid;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-content: center;
+}
+.Emprende h2{
+    color: #EEEEEE;
+    font-size: 40px;
+}
+.Emprende p{
+    color: #EEEEEE;
+    font-size: 20px;
+
+}
+.Btn-Comienza{
+    color: #2E73C7;
+    /* padding: 15px; */
+    margin: 10px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 /*Pie de pagina  */
 footer {
